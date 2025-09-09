@@ -23,7 +23,7 @@ app.get('/', async (c) => {
 });
 
 app.get('/chase', async (c) => {
-	return c.redirect('https://www.referyourchasecard.com/19s/Q74HGXH21L', 302);
+	return c.redirect('https://www.referyourchasecard.com/19u/G3H0CARMSC', 302);
 });
 
 app.get('/capital-on-tap', async (c) => {
@@ -35,7 +35,7 @@ app.get('/uk/amex', async (c) => {
 		"https://www.americanexpress.com/en-gb/credit-cards/referral/prospect/cards/intl/sUsANCYboB?CORID=s~U~s~A~N~C~Y~b~o~B-1748336010084-517844&CPID=100357020&GENCODE=349993074902657&XL=MIANS&ref=sUsANCYboB&v=2", // Susan BA Amex
 		// "https://www.americanexpress.com/en-gb/credit-cards/referral/prospect/cards/intl/jACKCkURb?CORID=j~A~C~K~C~k~U~R~b-1748435550183-573043&CPID=100357020&GENCODE=349992852384948&XL=MIANS&ref=jACKCkURb&v=2",
 		// "https://www.americanexpress.com/en-gb/credit-cards/referral/prospect/cards/intl/jACKCYDJO?CORID=j~A~C~K~C~Y~D~J~O-1748435870520-570983&CPID=100356998&GENCODE=349993300291503&XL=MIMNS&ref=jACKCYDJO&v=2",
-		"https://www.americanexpress.com/en-gb/credit-cards/referral/prospect/cards/intl/jACKCLuTc?CORID=j~A~C~K~C~L~u~T~c-1750738754838-451858&CPID=100356998&GENCODE=349993386925875&XL=MIMNS&ref=jACKCLuTc&v=2", // Jack BA Amex
+		// "https://www.americanexpress.com/en-gb/credit-cards/referral/prospect/cards/intl/jACKCLuTc?CORID=j~A~C~K~C~L~u~T~c-1750738754838-451858&CPID=100356998&GENCODE=349993386925875&XL=MIMNS&ref=jACKCLuTc&v=2", // Jack BA Amex
 		// "https://americanexpress.com/en-gb/referral/platinum-credit?ref=jACKCBhAd&XL=MIANS",
 		"https://www.americanexpress.com/en-gb/credit-cards/referral/prospect/cards/intl/aLICEOhKQR?CORID=a~L~I~C~E~O~h~K~Q~R-1756384941773-300951&CPID=100357020&GENCODE=349993147631143&XL=MIANS&ref=aLICEOhKQR&v=2", // Alice
 	];
